@@ -575,7 +575,9 @@ def main():
              font=("Arial", 11)).pack(pady=(0, 20))
 
     tk.Label(root,
-             text="Your sessions are stored locally in sessions.json on this computer.",
+             text=  "Your sessions are saved locally in sessions.json. "
+                    "They do not automatically sync between devices, "
+                    "so back up this file to protect your climbing history.",
              font=("Arial", 10), wraplength=650).pack(pady=10)
 
 
