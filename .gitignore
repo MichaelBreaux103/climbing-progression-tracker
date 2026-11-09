@@ -1,0 +1,17 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# VS Code and other editor settings
+.vscode/
+.idea/
+
+# Keep personal session backups out of GitHub
+sessions_backup.json
+
+# Environment files containing possible secrets
+.env
+.env.*
