@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "date": "2026-11-07",
+        "location": "the spot denver",
+        "type": "Bouldering",
+        "grade": "V7",
+        "attempts": 6,
+        "notes": "cave problem, core intensive"
+    },
+    {
+        "date": "2026-11-09",
+        "location": "The Spot Denver",
+        "type": "Bouldering",
+        "grade": "V6",
+        "attempts": 7,
+        "notes": "slab footwork problem"
+    },
+    {
+        "date": "2026-11-09",
+        "location": "The Spot Denver",
+        "type": "Bouldering",
+        "grade": "V8",
+        "attempts": 10,
+        "notes": "Power overhang"
+    },
+    {
+        "date": "2026-11-09",
+        "location": "The Spot Denver",
+        "type": "Bouldering",
+        "grade": "V8",
+        "attempts": 7,
+        "notes": "slab cooridnation problem"
+    },
+    {
+        "date": "2026-11-09",
+        "location": "The Spot Denver",
+        "type": "Bouldering",
+        "grade": "V6",
+        "attempts": 6,
+        "notes": "toe hook problem"
+    },
+    {
+        "date": "2026-11-09",
+        "location": "The Spot Denver",
+        "type": "Bouldering",
+        "grade": "V6",
+        "attempts": 9,
+        "notes": "Crimp intensive"
+    }
+]
